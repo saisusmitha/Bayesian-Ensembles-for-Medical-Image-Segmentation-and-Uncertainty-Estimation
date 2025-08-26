@@ -1,10 +1,17 @@
 Name of student: Arvapalli Sai Susmitha 
+
 Roll no: 18111273
+
 Degree for which submitted: Master of Technology
+
 Department: Department of Computer Science and Engineering
+
 University: Indian Institute of Technology Kanpur (IIT KANPUR)
+
 Thesis title: Bayesian Ensembles for Medical Image Segmentation and Uncertainty Estimation
+
 Name of Thesis Supervisors: Sunil Simon and Vinay P. Namboodiri
+
 Month and year of thesis submission: October 2024
 
 Master's Thesis Abstract:
